@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7592ac57a97621844bb7d05b6822c040, type: 3}
+  m_Name: TPCameraListData
+  m_EditorClassIdentifier: 
+  Name: 
+  tpCameraStates:
+  - Name: Default
+    forward: -1
+    right: 0
+    mouseX: 10
+    mouseY: 12
+    distance: 12
+    fieldOfView: 30
+    maxDistance: 15
+    minDistance: 3.7
+    Height: 3
+    startZoomAngle: {x: 80, y: 45}
+    endZoomAngle: {x: 75, y: 13}
+    zoomAngleAateX: 1.55
+    zoomAngleAateY: 0.25
+    startZoomDistance: 10
+    endZoomDistance: 6
+    zoomDistanceAate: 0.2
+  - Name: Lock2p5
+    forward: -1
+    right: 0
+    mouseX: 0
+    mouseY: 32
+    distance: 12
+    fieldOfView: 45
+    maxDistance: 15
+    minDistance: 2
+    Height: 1.5
+    startZoomAngle: {x: 80, y: 45}
+    endZoomAngle: {x: 75, y: 13}
+    zoomAngleAateX: 1.55
+    zoomAngleAateY: 0.25
+    startZoomDistance: 10
+    endZoomDistance: 6
+    zoomDistanceAate: 0.2
+  - Name: Surface
+    forward: -1
+    right: 0
+    mouseX: 0
+    mouseY: 11
+    distance: 5
+    fieldOfView: 45
+    maxDistance: 5
+    minDistance: 5
+    Height: 1
+    startZoomAngle: {x: 80, y: 45}
+    endZoomAngle: {x: 75, y: 13}
+    zoomAngleAateX: 1.55
+    zoomAngleAateY: 0.25
+    startZoomDistance: 10
+    endZoomDistance: 6
+    zoomDistanceAate: 0.2
+  - Name: FirstBattle
+    forward: -1
+    right: 0
+    mouseX: -180.3531
+    mouseY: -8.41
+    distance: 6.36
+    fieldOfView: 45
+    maxDistance: 6.36
+    minDistance: 6.36
+    Height: 2
+    startZoomAngle: {x: 80, y: 45}
+    endZoomAngle: {x: 75, y: 13}
+    zoomAngleAateX: 1.55
+    zoomAngleAateY: 0.25
+    startZoomDistance: 10
+    endZoomDistance: 6
+    zoomDistanceAate: 0.2
+  - Name: FirstBattle2
+    forward: -1
+    right: 0
+    mouseX: 191.4929
+    mouseY: 26
+    distance: 12
+    fieldOfView: 45
+    maxDistance: 18
+    minDistance: 10
+    Height: 1.5
+    startZoomAngle: {x: 80, y: 45}
+    endZoomAngle: {x: 75, y: 13}
+    zoomAngleAateX: 1.55
+    zoomAngleAateY: 0.25
+    startZoomDistance: 10
+    endZoomDistance: 6
+    zoomDistanceAate: 0.2

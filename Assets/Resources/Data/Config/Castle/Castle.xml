@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root type="CastlePrototype">
+  <Castle id="1" name="城堡1" type="1" range="35,35" level="1" modelPath="Prefabs/Bastions/BastionsLv1" />
+  <Castle id="2" name="城堡2" type="1" range="35,36" level="1" modelPath="Prefabs/Bastions/BastionsLv1" />
+  <Castle id="3" name="城堡3" type="1" range="35,37" level="1" modelPath="Prefabs/Bastions/BastionsLv1" />
+  <Castle id="4" name="城堡4" type="1" range="35,38" level="1" modelPath="Prefabs/Bastions/BastionsLv1" />
+  <Castle id="5" name="城堡5" type="1" range="35,39" level="1" modelPath="Prefabs/Bastions/BastionsLv1" />
+  <Castle id="6" name="城堡6" type="1" range="35,40" level="1" modelPath="Prefabs/Bastions/BastionsLv1" />
+  <Castle id="7" name="城堡7" type="1" range="35,41" level="1" modelPath="Prefabs/Bastions/BastionsLv1" />
+</Root>
